@@ -1,1 +1,1 @@
-# IsletimSistemleriProjesi
+# Isletim Sistemleri Projesi
